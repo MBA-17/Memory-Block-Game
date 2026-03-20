@@ -31,7 +31,7 @@ It’s designed as a beginner-friendly frontend project and can be easily reused
 1. Clone or fork this repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/MBA-17/Memory-Block-Game.git
    ```
 
 2. Open the project folder
